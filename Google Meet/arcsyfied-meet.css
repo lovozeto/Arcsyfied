@@ -25,7 +25,7 @@ img[src*="https://www.gstatic.com/meet/google_meet_horizontal_wordmark_2020q4_1x
     background-color: var(--arc-palette-focus) !important;
   }
   /* Texts - Titles */
-  body, .F1dYic, .BVRS9e {
+  body, .F1dYic, .BVRS9e, .J8vCN, .jn4CRe, .CS4kw, .GsLSib, .y3zDAc .VA2JSc, .y3zDAc .oFS10d, .KWalhf, .JJelA, .DwIq5e {
       color: var(--arc-palette-title) !important;
   }
   /* Texts - Paragraphs */
@@ -35,10 +35,10 @@ img[src*="https://www.gstatic.com/meet/google_meet_horizontal_wordmark_2020q4_1x
 
 /* Buttons */
   /* Primary */
-  .Dg7t5c:not(:disabled), .nCP5yc:not(:disabled)  {
+  .Dg7t5c:not(:disabled), .nCP5yc:not(:disabled), .nCP5yc:not(:disabled) {
     color: var(--arc-palette-title) !important;
   }
-  .Dg7t5c:not(:disabled) {
+  .Dg7t5c:not(:disabled), .nCP5yc:not(:disabled) {
     background-color: var(--arc-palette-cutoutColor) !important;
   }
   .hZ3uGe.KKjvXb .VfPpkd-Jh9lGc::before, .hZ3uGe.KKjvXb .VfPpkd-Jh9lGc::after {
@@ -231,10 +231,63 @@ header .gb_td {
     background-size: 400pt;
     color: var(--arc-palette-title) !important;
   }
+  .P9KVBf .uaILN:not(:disabled), .P9KVBf .rmHNDe:not(:disabled)   {
+    background-color: var(--arc-palette-subtitle) !important;
+  }
+  .P9KVBf .JxICCe.FTMc0c, .P9KVBf .yBiuPb.FTMc0c {
+    background-color: rgb(234,67,53) !important;
+  }
+  .P9KVBf .xHd4Cb.VfPpkd-Bz112c-LgbsSe-OWXEXe-IT5dJd:not(:disabled) {
+    background-color: var(--arc-palette-foregroundSecondary) !important;
+  }
+  .P9KVBf .xHd4Cb.VfPpkd-Bz112c-LgbsSe-OWXEXe-IT5dJd:not(:disabled), .P9KVBf .rmHNDe .VfPpkd-Bz112c-Jh9lGc::before, .P9KVBf .rmHNDe .VfPpkd-Bz112c-Jh9lGc::after {
+    color: var(--arc-palette-background) !important;
+  }
+  .P9KVBf .Vzh3ib:not(:disabled) {
+    background-color: var(--arc-palette-cutoutColor) !important;
+  }
+  .b1bzTb {
+    background: var(--arc-palette-cutoutColor) !important;
+  }
   /* Pop ups */
+  .o0X9vc .UIFKT i {
+    color: var(--arc-palette-backgroundExtra) !important;
+  }
   .xTGfdf {
     background: var(--arc-palette-foregroundTertiary) !important;
     box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15);
+  }
+  .gvnMbb {
+    background: var(--arc-palette-cutoutColor) !important;
+  }
+  .okqcNc {
+    color: var(--arc-palette-foregroundPrimary) !important;
+  }
+  .LCQ7g, .pKGwOc, .w29hZ, .VTPC4c {
+    color: var(--arc-palette-background) !important;
+  }
+  /* Call Cards */
+  .P9KVBf .dkjMxf {
+    background: var(--arc-palette-backgroundExtra) !important;
+  }
+  .tC2Wod {
+    border: 4px solid var(--arc-palette-foregroundSecondary) !important;
+  }
+  /* Presenting Banner */
+  .MON6Vd {
+    background: var(--arc-palette-backgroundExtra) !important;
+  }
+  /* Side Panels */
+  .R3Gmyc {
+    background: var(--arc-palette-background) !important;
+    background-image: var(--arc-texture) !important;
+    background-blend-mode: multiply !important;
+    background-size: 150pt !important;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15);
+  }
+  .WUFI9b {
+    background: transparent !important;
+
   }
 
 
